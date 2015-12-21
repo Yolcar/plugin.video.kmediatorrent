@@ -82,7 +82,7 @@
     	<setting id="display_yify" label="Display" type="bool" default="true" />
     	<setting id="yify_label" type="text" label="Label" default="Movies" />
     	<setting id="yify_picture" type="text" label="Picture link" default="http://i.imgur.com/PrwiRH8.png" />
-    	<setting id="base_yify" type="text" label="Domain" default="https://yts.to" />
+    	<setting id="base_yify" type="text" label="Domain" default="https://yts.ag" />
     
     	<setting label="Zelka.org - Search Engine" type="lsep"/>
       	<setting id="display_zelka" label="Display" type="bool" default="true" /> 
